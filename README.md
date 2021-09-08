@@ -1,9 +1,6 @@
 # Liquiz
-Aplicativo LIQUIZ - Quiz sobre libras
-
 
 Desenvolver um aplicativo gamificado para o ensino de conteúdos em LIBRAS (Língua Brasileira de Sinais) por intermédio de um Quiz.
-
 
 # Trabalhos Futuros
 
@@ -19,8 +16,15 @@ Modificação do método de  pontuação para mostrar de maneira mais lúdica os
 
 O aplicativo leva desafios da aprendizagem de LIBRAS e isso é importante para que os usuários se sintam motivados em aprender e se dediquem aos estudos de LIBRAS. 
 
-
 # PLAY STORE
 
 segue o link: https://play.google.com/store/apps/details?id=com.liquiz.librasliquiz&hl=en_US&gl=US
+
+# Contato
+
+Caso queira contribuir com o projeto, estamos abertos para sugestões e melhorias! Se desejar, contate-nos no telegram:
+
+Luiz Henrique: https://t.me/LuizHenrique1998
+
+
 
