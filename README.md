@@ -18,9 +18,6 @@ O aplicativo LIQUIZ é uma ferramenta educacional que visa trazer bons resultado
 O aplicativo leva desafios da aprendizagem de LIBRAS e isso é importante para que os usuários se sintam motivados em aprender e se dediquem aos estudos de LIBRAS. 
 
 
-# PLAY STORE
-
-Segue o link: https://play.google.com/store/apps/details?id=com.liquiz.librasliquiz&hl=en_US&gl=US
 
 # Contato
 
